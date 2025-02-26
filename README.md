@@ -27,9 +27,6 @@ This project is a front-end replica of Netflix's landing page. It features a cle
 2. Navigate into the project folder:  
 3. Open `index.html` in your web browser.  
 
-## 🔥 Live Demo
-[Click here to view the live project](https://Itssanthoshhere.github.io/netflix-clone/)
-
 ## 🤝 Contributing
 Feel free to fork this project and submit a pull request if you want to contribute or improve it!
 
