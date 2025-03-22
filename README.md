@@ -48,6 +48,3 @@ Feel free to fork this project and submit a pull request if you want to contribu
 
 ## 📩 Connect with Me
 [GitHub](https://github.com/Itssanthoshhere) | [LinkedIn](https://linkedin.com/in/thesanthoshvs)
-```
-
-This ensures your deployment link is properly highlighted and easy to find! 🚀
